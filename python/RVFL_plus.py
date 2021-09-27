@@ -7,7 +7,7 @@ class RVFL_plus(object):
     """
     The code of random vector functional link-plus (RVFL+) network is implemented in Python. If you would like
     to use it in your researches, please cite the paper "Zhang, Peng-Bo, and Yang, Zhi-Xin. A new learning paradigm
-    for random vector functional-link network: RVFL+. Neural Networks, 122 (2021) pp.94-105"
+    for random vector functional-link network: RVFL+. Neural Networks, 122 (2020) pp.94-105"
     Parameters
     ----------
     hidden_node : default = 100, the number of enhancement node between the input layer and the hidden layer
